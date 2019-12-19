@@ -1,0 +1,84 @@
+header{
+    position: relative;
+}
+header h1{
+    font-size: 50px;
+    font-family: cursive;
+}
+header span{
+    color: purple;
+}
+header ul{
+    list-style: none;
+    text-align: right;
+    margin: 0px;
+}
+header li{
+    text-decoration: none;
+    display: inline;
+    font-size: 25px;
+    margin-right: 8px;
+}
+.logininfo{
+    color: white;
+}
+.searchbar{
+    float: right;
+    position: absolute;
+    top: 175px; right: 280px;
+    border: solid thin purple;
+}
+.main{
+    background: lightpink;
+}
+.information{
+    text-align: center;
+    width: 400px;
+    margin-left: 250px;
+}
+header a{
+    text-decoration: none;
+    color: black;
+}
+.secondary{
+    background: lavender;
+}
+.secondary img{
+    border: thick solid purple;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+footer{
+    background: purple;
+    font-size: 18px;
+}
+footer h3{
+    color: white;
+    text-align: center;
+}
+footer a{
+    color: white;
+    text-decoration: none;
+}
+.socialmedia li{
+    display: inline;
+    margin-left: 10px;
+}
+.copyright{
+    margin-top: 10px;
+    color: white;
+}
+.logo img{
+    margin-top: 10px;
+}
+a:hover{
+    color: limegreen;
+}
+ul {
+    list-style: none;
+}
+button{
+    background: purple;
+    color: white;
+    border-radius: 5px;
+}
